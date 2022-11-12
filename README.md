@@ -1,6 +1,9 @@
 # DedSec
 No functional DedSec app (only layout)
 
+![DedSec](https://github.com/SlavPH/DedSec/blob/main/icon.png)
+
+
 # About
 DedSec app made with python kivymd (only layout)                               
 You can add your function to Cards
