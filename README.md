@@ -1,6 +1,7 @@
 # DedSec
 No functional DedSec app (only layout)
 
+# About
 DedSec app made with python kivymd (only layout)                               
 You can add your function to Cards
 Hope you enjoy it :)
